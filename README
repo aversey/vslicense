@@ -1,0 +1,14 @@
+-= Very Easy License
+
+License text itself is in LICENSE file.
+Don't forget to replace <year> and <author> in it with specific values.
+
+-= Motivation
+
+I love permissive licenses: they are simple and actually readable.
+Probably the shortest and the simplest permissive license is ISC license,
+yet, it containts quite agressive DISCLAIMER (in caps, yeap),
+so I decided to take the best disclaimer I have met, disclaimer from zlib.
+As composition of disclaimer from zlib and terms from ISC velicense was born.
+
+Feel free to use it in your own projects.  ;)
