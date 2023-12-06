@@ -9,6 +9,7 @@ I love permissive licenses: they are simple and actually readable.
 Probably the shortest and the simplest permissive license is ISC license,
 yet, it containts quite agressive DISCLAIMER (in caps, yeap),
 so I decided to take the best disclaimer I have met, disclaimer from zlib.
+Also, ISC contains attributions requirement, I have removed it too.
 As composition of disclaimer from zlib and terms from ISC vslicense was born.
 
 Feel free to use it in your own projects.  ;)
